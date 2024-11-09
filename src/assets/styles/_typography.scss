@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+.fancy-text {
+  color: #fff;
+  text-shadow: 0.05em 0.05em 0 lighten($vue-green, 30%),
+    0.1em 0.1em 0 lighten($vue-black, 20%),
+    0.15em 0.15em 0 lighten($vue-green, 10%);
+}
